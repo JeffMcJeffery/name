@@ -1,0 +1,74 @@
+$name : nigga name generator
+$author : chest arthritis (booboo crime staistics #2)
+$description : you get a nigga name
+$amount : 1
+$picture : https://cdn.discordapp.com/attachments/341454565499207700/530555689777496084/image0.png
+$button : give me another nigga name
+ 
+$start
+your nigga name is lil [title] [name1] [name2]. [modifier]
+ 
+$name1
+manny {10%}
+jeffery
+booboo
+jimbo {5%}
+bing bing crazy frog {5%}
+mike wazowski {5%}
+slave trade {5%}
+fortnite {5%}
+obama {5%}
+jim jong un
+boss baby
+foreskin
+bruh sound effect #2
+annoying orange
+peter griffin
+damn daniel
+titty dick
+le bron
+garfield
+republican {10%}
+ellen de generes
+ 
+$name2
+penis
+ninja
+lasagne
+peepee
+coochie
+crime statistics
+anime {15%}
+fortnite
+sprite cranberry
+shapiro {15%}
+daquan
+immigrant
+whip naenae {15%}
+foreskin
+clinton
+ 
+$title
+hungry
+starving
+sexy
+gay
+uncircumsised
+circumsised
+ 
+$modifier
+you sell sprite cranberry for a living.
+you eat ass for a living.
+you lost your parents at a young age.
+you lost your foreskin to a liberal doctor.
+you are an epic gamer.
+your grandparents were involved in the slave trade.
+you lost custody of the kids.
+you are an illegal immigrant.
+the first three digits of your social security number are [100-999]
+ 
+$gnomed
+Ho ho ho ha ha, ho ho ho he ha. Hello there, old chum. I’m gnot a gnelf. I’m gnot a gnoblin. I’m a GNOME, and you’ve been, GNOMED!![start] {90%}
+ 
+$name
+[gnomed].<br><br>
